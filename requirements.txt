@@ -17,7 +17,6 @@ joblib==1.4.2
 kiwisolver==1.4.7
 MarkupSafe==2.1.5
 matplotlib==3.7.5
--e git+https://github.com/hithashetty-rgb/mlproject.git@59ebeb4fedb4c0c6efe1e0c13931c4d888e7a9a4#egg=mlproject
 narwhals==1.42.1
 numpy==1.24.4
 packaging==26.2
@@ -36,3 +35,4 @@ tzdata==2026.2
 Werkzeug==3.0.6
 xgboost==2.1.4
 zipp==3.20.2
+-e .
